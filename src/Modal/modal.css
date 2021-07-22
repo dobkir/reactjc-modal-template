@@ -36,3 +36,25 @@
 .modal__content.active {
   transform: scale(1);
 }
+
+.modal__close {
+  display: block;
+  margin-left: auto;
+  padding: 0;
+  background: none;
+  border: none;
+  cursor: pointer;
+  opacity: .5;
+
+  position: sticky;
+  top: 0rem;
+
+  transition: transform .4s linear, opacity .4s linear;
+}
+
+.modal__close:hover,
+.modal__close:focus {
+  outline: none;
+  transform: rotate(90deg);
+  opacity: 1;
+}

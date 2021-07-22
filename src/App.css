@@ -8,8 +8,13 @@ p {
   margin: 20px;
 }
 
-.open-btn {
+.open__btn {
   margin: 10px 20px;
   padding: 20px;
   font-size: 2rem;
+}
+
+.open__btn:hover,
+.open__btn:focus {
+  background-color: #ccc;
 }
