@@ -12,6 +12,7 @@ p {
   margin: 10px 20px;
   padding: 20px;
   font-size: 2rem;
+  cursor: pointer;
 }
 
 .open__btn:hover,

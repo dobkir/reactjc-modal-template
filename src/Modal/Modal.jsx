@@ -1,9 +1,10 @@
 import "./modal.css";
 
-const Modal = ({ modalActive, modalClose, children }) => {
+
+export const Modal = ({ modalActive, modalClose, modalRef, children }) => {
 
   return (
-    <div className={modalActive ? "modal active" : "modal"} onClick={modalClose}>
+    <div ref={modalRef} className={modalActive ? "modal active" : "modal"} onClick={modalClose}>
       <div className={modalActive ? "modal__content active" : "modal__content"} onClick={e => e.stopPropagation()}>
         <button className="modal__close" type="button" onClick={modalClose}>
           <img src="close_icon.svg" alt="icon: Close modal" />
@@ -13,5 +14,3 @@ const Modal = ({ modalActive, modalClose, children }) => {
     </div>
   )
 }
-
-export default Modal;
