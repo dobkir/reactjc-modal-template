@@ -14,20 +14,20 @@
 ### Built With
 
 - Framework<br>
-### ![ReactJS](https://img.shields.io/badge/React-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-007396?logo=React&logoColor=007396&style=for-the-badge)
+![ReactJS](https://img.shields.io/badge/React-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-007396?logo=React&logoColor=007396&style=for-the-badge)
 
 - Languages<br>
-### ![Languages][languages-shield]
+![Languages][languages-shield]
 
 - Main language<br>
-### ![Main language][main-language-shield]
+![Main language][main-language-shield]
 
 - Others<br>
-### ![HTML5](https://img.shields.io/badge/HTML5-18.8%25-e34c26?logo=Html5&logoColor=e34c26&style=for-the-badge)<br>
-### ![CSS](https://img.shields.io/badge/CSS3-16.6%25-563d7c?logo=CSS3&logoColor=563d7c&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-18.8%25-e34c26?logo=Html5&logoColor=e34c26&style=for-the-badge)<br>
+![CSS](https://img.shields.io/badge/CSS3-16.6%25-563d7c?logo=CSS3&logoColor=563d7c&style=for-the-badge)
 
 - IDE<br>
-### 💻 VS Code
+💻 VS Code
 
 <!-- WORK DESCRIPTION -->
 ## Work description
@@ -38,8 +38,7 @@ The window closes when you click on the close button (cross in the upper right c
 or when you click on the page area around the modal window.
 
 The "body-scroll-lock" library is responsible for locking the scroll.<br> 
-Link to the BSL package:<br>
-[https://github.com/willmcpo/body-scroll-lock](https://github.com/willmcpo/body-scroll-lock)<br>
+Link to the BSL package: [https://github.com/willmcpo/body-scroll-lock](https://github.com/willmcpo/body-scroll-lock)<br>
 Install:
 ```sh
 $ yarn add body-scroll-lock
@@ -48,6 +47,8 @@ or
 
 $ npm install body-scroll-lock
 ```
+
+## [Link to example](https://modal-window-react.herokuapp.com/)
 
 <!-- GETTING STARTED -->
 ## Running on your local machine
