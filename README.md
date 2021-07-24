@@ -1,70 +1,68 @@
-# Getting Started with Create React App
+# Simple template of the modal window for ReactJS.
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+[![An example of working with a modal window from this template][product-screenshot]](https://github.com/dobkir/reactjs-modal-template/tree/master/public/example_how_it_work.gif)
+</p>
 
-## Available Scripts
+<!-- TOOLS -->
+### Built With
 
-In the project directory, you can run:
+* 💻 VS Code
+* ⚛️ ReactJS
+* 🐙 Github
 
-### `yarn start`
+<!-- WORK DESCRIPTION -->
+## Work description
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+The modal window opens when you click on the corresponding button. 
+Scrolling of the page is blocked when the window is opened. 
+The window closes when you click on the close button (cross in the upper right corner), 
+or when you click on the page area around the modal window.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+The "body-scroll-lock" library is responsible for locking the scroll. 
+Link to the BSL package:
+[body-scroll-lock package](https://github.com/willmcpo/body-scroll-lock)
+Install:
+```sh
+    $ yarn add body-scroll-lock
 
-### `yarn test`
+    or
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+    $ npm install body-scroll-lock
+```
 
-### `yarn build`
+<!-- GETTING STARTED -->
+## Running on your local machine
+To get a local copy up and running follow these simple steps.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* Git
+`sudo apt-get install git`
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. Clone this repository on local machine:
+`git clone https://github.com/dobkir/reactjs-modal-template.git`
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+2. Install Node Package Manager on the directory with the cloning repository
+`npm install`
 
-### `yarn eject`
+3. Run this template on your local machine
+`npm start` or `yarn start`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<!-- LICENSE -->
+## License
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Distributed under the MIT License. See `LICENSE` for more information.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+<!-- CONTACT -->
+## Contact
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Have a question? - [e-mail](p.kirillov2020@gmail.com) - p.kirillov2020@gmail.com
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Project Link: [https://github.com/dobkir/reactjs-modal-template](https://github.com/dobkir/reactjs-modal-template)

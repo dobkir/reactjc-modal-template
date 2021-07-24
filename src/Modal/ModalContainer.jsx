@@ -10,11 +10,11 @@ export const ModalContainer = ({ modalActive, modalClose }) => {
 
   // Closing the Modal window with the Esc key.
   useEffect(() => {
-    document.addEventListener('keydown', (event) => {
+    window.addEventListener('keydown', (event) => {
       if (event.key === 'Escape') modalClose();
     })
 
-    return document.removeEventListener('keydown', modalClose())
+    return window.removeEventListener('keydown', modalClose())
   }, [])
 
 
