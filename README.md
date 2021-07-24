@@ -48,7 +48,7 @@ or
 $ npm install body-scroll-lock
 ```
 
-## [[Come here] to watch an example in your Web Browser](https://modal-window-react.herokuapp.com/)
+## [Come here](https://modal-window-react.herokuapp.com/) to watch an example on your Web Browser
 
 <!-- GETTING STARTED -->
 ## Running on your local machine
