@@ -5,26 +5,26 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![Repository size][repo-size-shield]]
+![Repository size][repo-size-shield]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-[![An example of working with a modal window from this template][product-screenshot]]
+![An example of working with a modal window from this template][product-screenshot]
 
 <!-- TOOLS -->
 ### Built With
 
 -Framework<br>
-![ReactJS](https://img.shields.io/badge/React-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-007396?logo=React&logoColor=007396&style=for-the-badge)
+[(https://img.shields.io/badge/React-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-007396?logo=React&logoColor=007396&style=for-the-badge)]
 
 -Languages<br>
-[![Languages][languages-shield]]
+![Languages][languages-shield]
 
 -Main language<br>
-[![Main language][main-language-shield]]
+![Main language][main-language-shield]
 
 -Others<br>
-![HTML5](https://img.shields.io/badge/HTML5-18.8%-e34c26?logo=Html5&logoColor=e34c26)&nbsp;&nbsp;&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-16.6%-563d7c?logo=CSS3&logoColor=563d7c)
+![HTML5](https://img.shields.io/badge/HTML5-18.8%-e34c26?logo=Html5&logoColor=e34c26&style=for-the-badge)&nbsp;&nbsp;&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-16.6%-563d7c?logo=CSS3&logoColor=563d7c&style=for-the-badge)
 
 -IDE<br>
 * 💻 VS Code
@@ -39,7 +39,7 @@ or when you click on the page area around the modal window.
 
 The "body-scroll-lock" library is responsible for locking the scroll.<br> 
 Link to the BSL package:<br>
-[body-scroll-lock package](https://github.com/willmcpo/body-scroll-lock)<br>
+[https://github.com/willmcpo/body-scroll-lock](https://github.com/willmcpo/body-scroll-lock)<br>
 Install:
 ```sh
 $ yarn add body-scroll-lock
@@ -86,7 +86,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:p.kirillov2020@gmail.com)](mailto:p.kirillov2020@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:p.kirillov2020@gmail.com)](mailto:p.kirillov2020@gmail.com)
 
 Project Link: [https://github.com/dobkir/reactjs-modal-template](https://github.com/dobkir/reactjs-modal-template)
 
