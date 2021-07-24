@@ -13,21 +13,21 @@
 <!-- TOOLS -->
 ### Built With
 
--Framework<br>
-* ![ReactJS](https://img.shields.io/badge/React-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-007396?logo=React&logoColor=007396&style=for-the-badge)
+- Framework<br>
+![ReactJS](https://img.shields.io/badge/React-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-007396?logo=React&logoColor=007396&style=for-the-badge)
 
--Languages<br>
-* ![Languages][languages-shield]
+- Languages<br>
+![Languages][languages-shield]
 
--Main language<br>
-* ![Main language][main-language-shield]
+- Main language<br>
+![Main language][main-language-shield]
 
--Others<br>
-* ![HTML5](https://img.shields.io/badge/HTML5-18.8%25-e34c26?logo=Html5&logoColor=e34c26&style=for-the-badge)<br>
-* ![CSS](https://img.shields.io/badge/CSS3-16.6%25-563d7c?logo=CSS3&logoColor=563d7c&style=for-the-badge)
+- Others<br>
+![HTML5](https://img.shields.io/badge/HTML5-18.8%25-e34c26?logo=Html5&logoColor=e34c26&style=for-the-badge)<br>
+![CSS](https://img.shields.io/badge/CSS3-16.6%25-563d7c?logo=CSS3&logoColor=563d7c&style=for-the-badge)
 
--IDE<br>
-* 💻 VS Code
+- IDE<br>
+💻 VS Code
 
 <!-- WORK DESCRIPTION -->
 ## Work description
@@ -53,7 +53,7 @@ $ npm install body-scroll-lock
 ## Running on your local machine
 To get a local copy up and running follow these simple steps.
 
-* Git
+- Git
 ```
 sudo apt-get install git
 ```
@@ -92,12 +92,12 @@ Project Link: [https://github.com/dobkir/reactjs-modal-template](https://github.
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [ReactJS](https://github.com/facebook/react/)
-* [BSL (Body scroll lock)](https://github.com/willmcpo/body-scroll-lock)
+- [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+- [Img Shields](https://shields.io)
+- [Choose an Open Source License](https://choosealicense.com)
+- [GitHub Pages](https://pages.github.com)
+- [ReactJS](https://github.com/facebook/react/)
+- [BSL (Body scroll lock)](https://github.com/willmcpo/body-scroll-lock)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
