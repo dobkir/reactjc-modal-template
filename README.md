@@ -1,11 +1,11 @@
 # Simple template of the modal window for ReactJS.
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-![Repository size][repo-size-shield]
+[![Contributors][contributors-shield]][contributors-url]&nbsp;
+[![Forks][forks-shield]][forks-url]&nbsp;
+[![Stargazers][stars-shield]][stars-url]&nbsp;
+[![Issues][issues-shield]][issues-url]&nbsp;
+[![MIT License][license-shield]][license-url]&nbsp;
+![Repository size][repo-size-shield]&nbsp;
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 ![An example of working with a modal window from this template][product-screenshot]
@@ -14,7 +14,7 @@
 ### Built With
 
 -Framework<br>
-[(https://img.shields.io/badge/React-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-007396?logo=React&logoColor=007396&style=for-the-badge)]
+![ReactJS](https://img.shields.io/badge/React-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-007396?logo=React&logoColor=007396&style=for-the-badge)
 
 -Languages<br>
 ![Languages][languages-shield]
@@ -23,8 +23,8 @@
 ![Main language][main-language-shield]
 
 -Others<br>
-![HTML5](https://img.shields.io/badge/HTML5-18.8%-e34c26?logo=Html5&logoColor=e34c26&style=for-the-badge)&nbsp;&nbsp;&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-16.6%-563d7c?logo=CSS3&logoColor=563d7c&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-18.8%25-e34c26?logo=Html5&logoColor=e34c26&style=for-the-badge)&nbsp;&nbsp;&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-16.6%25-563d7c?logo=CSS3&logoColor=563d7c&style=for-the-badge)
 
 -IDE<br>
 * 💻 VS Code
