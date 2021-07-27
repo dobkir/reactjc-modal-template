@@ -113,7 +113,7 @@ Project Link: [https://github.com/dobkir/reactjs-modal-template](https://github.
 [license-shield]: https://img.shields.io/github/license/dobkir/reactjs-modal-template.svg?style=for-the-badge
 [license-url]: https://github.com/dobkir/reactjs-modal-template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/
+[linkedin-url]: https://www.linkedin.com/in/pavel-kirillov-dobkir
 [repo-size-shield]: https://img.shields.io/github/repo-size/dobkir/reactjs-modal-template.svg?style=for-the-badge
 [languages-shield]: https://img.shields.io/github/languages/count/dobkir/reactjs-modal-template.svg?style=for-the-badge
 [main-language-shield]: https://img.shields.io/github/languages/top/dobkir/reactjs-modal-template.svg?style=for-the-badge&color=f1e05a
