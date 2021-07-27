@@ -117,4 +117,4 @@ Project Link: [https://github.com/dobkir/reactjs-modal-template](https://github.
 [repo-size-shield]: https://img.shields.io/github/repo-size/dobkir/reactjs-modal-template.svg?style=for-the-badge
 [languages-shield]: https://img.shields.io/github/languages/count/dobkir/reactjs-modal-template.svg?style=for-the-badge
 [main-language-shield]: https://img.shields.io/github/languages/top/dobkir/reactjs-modal-template.svg?style=for-the-badge&color=f1e05a
-[product-screenshot]: public/example_how_it_work.gif
+[product-screenshot]: https://github.com/dobkir/trailers/blob/master/react-modal-template_trailer/example_how_it_work.gif
