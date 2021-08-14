@@ -1,4 +1,4 @@
-# Simple template of the modal window for ReactJS
+# ![Modal window icon](https://img.icons8.com/color/36/000000/restore-window.png) Simple template of the modal window for ReactJS ![Modal window icon](https://img.icons8.com/color/36/000000/restore-window.png) 
 
 [![Contributors][contributors-shield]][contributors-url]&nbsp;
 [![Forks][forks-shield]][forks-url]&nbsp;
@@ -14,7 +14,7 @@
 ### Built With
 
 - Framework<br>
-![ReactJS](https://img.shields.io/badge/React-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-007396?logo=React&logoColor=007396&style=for-the-badge)
+[![React](https://img.shields.io/badge/React-282c34?style=for-the-badge&logo=React&logoColor=61dafb)](https://reactjs.org/)
 
 - Languages<br>
 ![Languages][languages-shield]
@@ -27,7 +27,8 @@
 ![CSS](https://img.shields.io/badge/CSS3-16.6%25-563d7c?logo=CSS3&logoColor=563d7c&style=for-the-badge)
 
 - IDE<br>
-💻 VS Code
+![VSCode](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)<br>
+ [VSCode](https://code.visualstudio.com/)
 
 <!-- WORK DESCRIPTION -->
 ## Work description
@@ -36,17 +37,6 @@ The modal window opens when you click on the corresponding button.
 Scrolling of the page is blocked when the window is opened. 
 The window closes when you click on the close button (cross in the upper right corner), 
 or when you click on the page area around the modal window.
-
-The "body-scroll-lock" library is responsible for locking the scroll.<br> 
-Link to the BSL package: [https://github.com/willmcpo/body-scroll-lock](https://github.com/willmcpo/body-scroll-lock)<br>
-Install:
-```sh
-$ yarn add body-scroll-lock
-
-or
-
-$ npm install body-scroll-lock
-```
 
 ## [Come here](https://modal-window-react.herokuapp.com/) to watch an example on your Web Browser
 
@@ -93,12 +83,22 @@ Project Link: [https://github.com/dobkir/reactjs-modal-template](https://github.
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-- [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+- [ICONS8](https://icons8.com/)
 - [Img Shields](https://shields.io)
 - [Choose an Open Source License](https://choosealicense.com)
 - [GitHub Pages](https://pages.github.com)
 - [ReactJS](https://github.com/facebook/react/)
 - [BSL (Body scroll lock)](https://github.com/willmcpo/body-scroll-lock)
+The "body-scroll-lock" library is responsible for locking the scroll.<br> 
+Link to the BSL package: [https://github.com/willmcpo/body-scroll-lock](https://github.com/willmcpo/body-scroll-lock)<br>
+Install:
+```sh
+$ yarn add body-scroll-lock
+
+or
+
+$ npm install body-scroll-lock
+```
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
