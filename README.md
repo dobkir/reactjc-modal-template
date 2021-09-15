@@ -81,8 +81,8 @@ Distributed under the MIT License. See [LICENSE](license.txt) for more informati
 
 Project Link: [https://github.com/dobkir/reactjs-modal-template](https://github.com/dobkir/reactjs-modal-template)
 
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
 - [ICONS8](https://icons8.com/)
 - [Img Shields](https://shields.io)
 - [Choose an Open Source License](https://choosealicense.com)
